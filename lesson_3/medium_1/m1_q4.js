@@ -1,0 +1,1 @@
+// Yes, the first implementation mutates buffer, while the second creates a new buffer array.

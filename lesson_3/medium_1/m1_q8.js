@@ -1,0 +1,1 @@
+// Objects are passed by reference in JS so the data was mutated
